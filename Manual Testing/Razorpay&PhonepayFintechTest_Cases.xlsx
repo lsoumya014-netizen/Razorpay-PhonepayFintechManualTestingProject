@@ -1,0 +1,92 @@
+Razorpay & PhonePe Fintech Application – Manual Testing
+Project Overview
+This project demonstrates manual testing performed on UPI / Digital Payments & Fintech applications (Razorpay & PhonePe sandbox).
+The objective was to validate money movement, transaction integrity, duplicate prevention, authentication, refunds, and usability across critical workflows.
+
+Application Under Test
+Application: Razorpay & PhonePe Fintech App (Sandbox)
+Technology: UPI / Digital Payments Platform
+Testing Type: Manual Testing
+
+Testing Performed
+Smoke Testing – Critical login and transaction flows
+
+Sanity Testing – Verification of specific fixes and targeted features
+
+Functional Testing – Add money, send/receive, QR scan-to-pay, refunds, history
+
+Boundary Testing – Limits, precision, minimum/maximum values
+
+Negative Testing – Invalid inputs, duplicate attempts, blocked senders
+
+Resilience & Recovery Testing – Network drops, app kill/reopen, retries
+
+Usability & Privacy Testing – Error messages, masking, confirmation clarity
+
+Compatibility Testing – Android/iOS versions, browsers, screen sizes
+
+Test Documentation
+The Excel workbook contains the following documentation:
+
+RTM (Requirements Traceability Matrix) – Mapping requirements to test cases
+
+Detailed Test Cases – 200+ cases across modules
+
+Bug Log – Severity/Priority defect records
+
+Exploratory Charters – Session-based exploratory notes
+
+Test Data Sheets – Synthetic data for safe execution
+
+Resume Highlights – Project summary for portfolio
+
+Test Case Coverage
+Each test case includes:
+
+Test Case ID
+
+Requirement ID
+
+Module
+
+Test Type
+
+Risk & Priority
+
+Preconditions
+
+Test Data
+
+Detailed Steps
+
+Expected Result
+
+Actual Result / Status
+
+Bug ID & Retest Notes
+
+Tools & Technologies
+Microsoft Excel / Google Sheets
+
+Web Browser DevTools
+
+Razorpay Sandbox Dashboard
+
+PhonePe UAT Sandbox
+
+Deliverables
+RTM
+
+Manual Test Cases
+
+Bug Log
+
+Exploratory Charters
+
+Test Data Sheets
+
+Test Execution Documentation
+
+Project Outcome
+The project provided practical experience in risk-based manual testing of fintech applications, validating transaction workflows, ensuring duplicate prevention, testing resilience under network drops, and documenting defects with severity/priority logs.
+It strengthened skills in functional, boundary, negative, and usability testing while working with UPI sandbox environments.
